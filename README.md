@@ -1,2 +1,2 @@
 # update_vending
-Test para el uso de actualizaciones remotas de equipos vending
+Repositorio para la actualización de equipamiento vending
